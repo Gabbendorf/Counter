@@ -1,0 +1,15 @@
+.root {
+    -fx-background-color: white;
+    -fx-border-width: 10;
+    -fx-border-color: pink;
+}
+.label {
+    -fx-font-size: 50;
+    -fx-text-alignment: center;
+    -fx-text-fill: red;
+}
+.button {
+    -fx-color: yellow;
+    -fx-padding: 10 25 10 25;
+    -fx-font-size: 20;
+}
